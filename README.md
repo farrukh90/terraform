@@ -9,6 +9,13 @@
    - Security Group
    - Instance
 - UAT
+   - VPC
+   - Subnet
+   - IGW
+   - Route Table
+   - Route Table Association
+   - Security Group
+   - Instance
 - QA
 - STAGE
 - PROD
