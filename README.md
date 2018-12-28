@@ -17,5 +17,26 @@
    - Security Group
    - Instance
 - QA
+   - VPC
+   - Subnet
+   - IGW
+   - Route Table
+   - Route Table Association
+   - Security Group
+   - Instance
 - STAGE
+   - VPC
+   - Subnet
+   - IGW
+   - Route Table
+   - Route Table Association
+   - Security Group
+   - Instance
 - PROD
+   - VPC
+   - Subnet
+   - IGW
+   - Route Table
+   - Route Table Association
+   - Security Group
+   - Instance
