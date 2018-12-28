@@ -8,7 +8,7 @@
    - [x] Route Table Association
    - [x] Security Group
    - [x] Instance
-   - [x] Need to Create LB
+   - [ ] Need to Create LB
 - UAT
    - VPC
    - Subnet
