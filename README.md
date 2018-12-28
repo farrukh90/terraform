@@ -1,2 +1,2 @@
 # Terraform
-### This repository for multiple Environments
+### This repository if for creaing multiple Environments
