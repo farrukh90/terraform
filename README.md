@@ -10,34 +10,38 @@
    - [x] Instance
    - [ ] Need to Create LB
 - UAT
-   - VPC
-   - Subnet
-   - IGW
-   - Route Table
-   - Route Table Association
-   - Security Group
-   - Instance
+   - [x] VPC
+   - [x] Subnet
+   - [x] IGW
+   - [x] Route Table
+   - [x] Route Table Association
+   - [x] Security Group
+   - [x] Instance
+   - [ ] Need to Create LB
 - QA
-   - VPC
-   - Subnet
-   - IGW
-   - Route Table
-   - Route Table Association
-   - Security Group
-   - Instance
+   - [x] VPC
+   - [x] Subnet
+   - [x] IGW
+   - [x] Route Table
+   - [x] Route Table Association
+   - [x] Security Group
+   - [x] Instance
+   - [ ] Need to Create LB
 - STAGE
-   - VPC
-   - Subnet
-   - IGW
-   - Route Table
-   - Route Table Association
-   - Security Group
-   - Instance
+   - [x] VPC
+   - [x] Subnet
+   - [x] IGW
+   - [x] Route Table
+   - [x] Route Table Association
+   - [x] Security Group
+   - [x] Instance
+   - [ ] Need to Create LB
 - PROD
-   - VPC
-   - Subnet
-   - IGW
-   - Route Table
-   - Route Table Association
-   - Security Group
-   - Instance
+   - [x] VPC
+   - [x] Subnet
+   - [x] IGW
+   - [x] Route Table
+   - [x] Route Table Association
+   - [x] Security Group
+   - [x] Instance
+   - [ ] Need to Create LB
