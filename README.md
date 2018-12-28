@@ -1,6 +1,6 @@
 # Terraform
 ### This repository if for creaing multiple Environments
-# - DEV
+- DEV
    - VPC
    - Subnet
    - IGW
