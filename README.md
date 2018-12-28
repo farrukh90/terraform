@@ -1,14 +1,14 @@
 # Terraform
 ### This repository if for creaing multiple Environments
 - DEV
-   - VPC
-   - Subnet
-   - IGW
-   - Route Table
-   - Route Table Association
-   - Security Group
-   - Instance
-   - [ ] Need to Create LB
+   - [x] VPC
+   - [x] Subnet
+   - [x] IGW
+   - [x] Route Table
+   - [x] Route Table Association
+   - [x] Security Group
+   - [x] Instance
+   - [x] Need to Create LB
 - UAT
    - VPC
    - Subnet
