@@ -10,6 +10,7 @@
    - [x] Instance
    - [x] Need to Create LB
    - [x] Kubernetes Cluster
+   - [x] Kubernetes Private Cluster
 - UAT
    - [x] VPC
    - [x] Subnet
