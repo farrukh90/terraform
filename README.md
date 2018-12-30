@@ -9,6 +9,7 @@
    - [x] Security Group
    - [x] Instance
    - [ ] Need to Create LB
+   - [x] Kubernetes Cluster
 - UAT
    - [x] VPC
    - [x] Subnet
