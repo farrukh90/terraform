@@ -8,7 +8,8 @@
    - [x] Route Table Association
    - [x] Security Group
    - [x] Instance
-   - [ ] Need to Create LB
+   - [x] Need to Create LB
+   - [x] Kubernetes Cluster
 - UAT
    - [x] VPC
    - [x] Subnet
