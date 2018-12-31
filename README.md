@@ -41,6 +41,8 @@
    - [x] Security Group
    - [x] Instance
    - [ ] Need to Create LB
+   - [x] Kubernetes Private Cluster
+
 - PROD
    - [x] VPC
    - [x] Subnet
@@ -50,3 +52,4 @@
    - [x] Security Group
    - [x] Instance
    - [ ] Need to Create LB
+   - [x] Kubernetes Private Cluster
