@@ -20,6 +20,7 @@
    - [x] Security Group
    - [x] Instance
    - [ ] Need to Create LB
+   - [x] Kubernetes Private Cluster
 - QA
    - [x] VPC
    - [x] Subnet
@@ -29,6 +30,8 @@
    - [x] Security Group
    - [x] Instance
    - [ ] Need to Create LB
+   - [x] Kubernetes Private Cluster
+
 - STAGE
    - [x] VPC
    - [x] Subnet
