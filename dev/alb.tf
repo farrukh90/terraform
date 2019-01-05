@@ -5,7 +5,6 @@ resource "aws_lb" "dev" {
   security_groups    = ["${aws_security_group.dev.id}"]
   subnets            = ["${aws_subnet.dev.id}", "${aws_subnet.dev2.id}"]
 
-  enable_deletion_protection = true
 
 
 
